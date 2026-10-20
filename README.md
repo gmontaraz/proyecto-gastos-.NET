@@ -1,6 +1,6 @@
 # FinTrack
 
-Aplicación para controlar gastos e ingresos personales. La he hecho para practicar ASP.NET Core, Entity Framework y JWT.
+Aplicación para controlar gastos e ingresos personales. La he hecho para practicar ASP.NET Core, Entity Framework y JWT. Puedes probar la demo gratuita aqui: https://proyecto-gastos-net.onrender.com/login.html
 
 Puedes registrarte, apuntar movimientos con su categoría y ver un resumen del mes con una gráfica de en qué te gastas el dinero.
 
